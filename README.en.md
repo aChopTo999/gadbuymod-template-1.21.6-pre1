@@ -1,36 +1,30 @@
 # GadbuyMod
 
 #### Description
-萌新的第一个mcmod。
+
+A Kawaii-NOOB's Minecraft Mod.
+
 
 #### Software Architecture
-Software architecture description
+
+1.  Adding a item sulfur, which is used to make gunpowder.
+
 
 #### Installation
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  A demo project, no installing tutorial.
+
 
 #### Instructions
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  Just make the mod upload into the game.
+
 
 #### Contribution
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+Nobody else except for the author.
 
 
 #### Gitee Feature
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+Nothing
